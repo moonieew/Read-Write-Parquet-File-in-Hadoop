@@ -10,16 +10,16 @@
 ## *Cài đặt*
 1. Xem file SetupEC2.txt để tạo 1 máy ảo EC2 trên AWS
 2. Kết nối với máy ảo EC2
-3. Xem file SetupHadoop để cài đặt Hadoop
+3. Xem file SetupHadoop.txt để cài đặt Hadoop
 * http: // localhost: 50070   : Xem giao diện người dùng Web của NameNode
 * http: // localhost: 8090    : Xem giao diện người dùng quản lý tài nguyên 
 
 ## *Code*
-1. Clone git này về để xem có code và data
+1. Clone git này về để xem: có code và data
 2. Sử dụng file convert2.py để chuyển đổi file CSV sang Parquet
 3. Đặt file Parquet vào HDFS
 4. Cài đặt thêm một số môi trường
-```linux
+```ubuntu
 sudo apt update
 sudo apt install python3-pip python3-dev
 sudo apt install python
