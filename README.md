@@ -3,6 +3,7 @@
 ## *Giới thiệu*
 ##### Version
 | EC2 | Cloud9Ubuntu-2020-08-26T15-11 |
+|-----|------|
 | Hadoop | 2.7.7|
 
 ## *Cài đặt*
